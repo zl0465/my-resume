@@ -34976,36 +34976,6 @@ function Resume() {
             gap: 5px;
           }
         }
-        /* Large screens: place profile photo above name and contact info */
-        @media (min-width: 1100px) {
-          .header {
-            /* stack vertically so photo appears above the text */
-            flex-direction: column;
-            align-items: center;
-            text-align: center;
-            padding: 48px;
-            gap: 18px;
-          }
-
-          /* ensure the header-left content sits below the photo */
-          .header-left {
-            order: 2;
-            align-items: center;
-            gap: 12px;
-          }
-
-          .profile-photo {
-            order: 1;
-            margin-bottom: 8px;
-            /* slightly larger on very wide screens */
-            width: 280px;
-            height: 280px;
-          }
-
-          .contact-info {
-            align-items: center;
-          }
-        }
       ` }),
     /* @__PURE__ */ (0, import_jsx_runtime16.jsxs)("div", { className: "header", children: [
       /* @__PURE__ */ (0, import_jsx_runtime16.jsxs)("div", { className: "header-left", children: [
