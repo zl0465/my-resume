@@ -34961,7 +34961,7 @@ function Resume() {
             align-items: center;
           }
           .profile-photo {
-            width: 96px;a
+            width: 96px;
             height: 96px;
           }
           .content {
@@ -34999,7 +34999,7 @@ function Resume() {
           ] })
         ] })
       ] }),
-      /* @__PURE__ */ (0, import_jsx_runtime16.jsx)("img", { className: "profile-photo", src: "/zl.png", alt: "Profile photo" })
+      /* @__PURE__ */ (0, import_jsx_runtime16.jsx)("img", { className: "profile-photo", src: "zl.png", alt: "Profile photo" })
     ] }),
     /* @__PURE__ */ (0, import_jsx_runtime16.jsxs)("div", { className: "content", children: [
       /* @__PURE__ */ (0, import_jsx_runtime16.jsxs)("div", { className: "section", children: [
