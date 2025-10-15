@@ -1,0 +1,29 @@
+{
+  "name": "limzlcv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "esbuild src/index.jsx --bundle --outfile=public/bundle.js --format=esm --jsx=automatic",
+    "dev": "npm run build && serve public -l 8000",
+    "watch": "esbuild src/index.jsx --bundle --outfile=public/bundle.js --format=esm --jsx=automatic --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "esbuild": "^0.25.10",
+    "serve": "^14.2.5"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/icons-material": "^7.3.4",
+    "@mui/material": "^7.3.4",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-router-dom": "^6.14.1"
+  }
+}
