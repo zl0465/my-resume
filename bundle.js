@@ -35026,19 +35026,19 @@ function Resume() {
         /* @__PURE__ */ (0, import_jsx_runtime16.jsx)("h2", { children: "Education" }),
         /* @__PURE__ */ (0, import_jsx_runtime16.jsxs)("div", { className: "education-item", children: [
           /* @__PURE__ */ (0, import_jsx_runtime16.jsx)("div", { className: "edu-header", children: /* @__PURE__ */ (0, import_jsx_runtime16.jsxs)("div", { children: [
-            /* @__PURE__ */ (0, import_jsx_runtime16.jsx)("div", { className: "diploma", children: "Diploma of Information and Communication Technology specialist in Software Engineering (CGPA: 3.32)" }),
-            /* @__PURE__ */ (0, import_jsx_runtime16.jsx)("div", { className: "school", children: "Asia Pacific University" }),
-            /* @__PURE__ */ (0, import_jsx_runtime16.jsx)("div", { className: "date", children: "2023 - 2025" })
-          ] }) }),
-          /* @__PURE__ */ (0, import_jsx_runtime16.jsx)("div", { className: "description", children: "Relevant coursework: Software Engineering, Database Systems, Web Development, Mobile App Development, Networking Technologies, Front-end Development, Back-end Development, DevOps, Cybersecurity, AI Fundamentals" })
-        ] }),
-        /* @__PURE__ */ (0, import_jsx_runtime16.jsxs)("div", { className: "education-item", children: [
-          /* @__PURE__ */ (0, import_jsx_runtime16.jsx)("div", { className: "edu-header", children: /* @__PURE__ */ (0, import_jsx_runtime16.jsxs)("div", { children: [
             /* @__PURE__ */ (0, import_jsx_runtime16.jsx)("div", { className: "diploma", children: "Compulsory Education (SPM 3A+ 3B 3C) " }),
             /* @__PURE__ */ (0, import_jsx_runtime16.jsx)("div", { className: "school", children: "Sekolah Menengah Kebangsaan Seri Kembangan" }),
             /* @__PURE__ */ (0, import_jsx_runtime16.jsx)("div", { className: "date", children: "2017 - 2023" })
           ] }) }),
           /* @__PURE__ */ (0, import_jsx_runtime16.jsx)("div", { className: "description", children: "Relevant coursework: Accounting, Business Studies, Malay Language, Chinese, English, Mathematics, Science, Sejarah" })
+        ] }),
+        /* @__PURE__ */ (0, import_jsx_runtime16.jsxs)("div", { className: "education-item", children: [
+          /* @__PURE__ */ (0, import_jsx_runtime16.jsx)("div", { className: "edu-header", children: /* @__PURE__ */ (0, import_jsx_runtime16.jsxs)("div", { children: [
+            /* @__PURE__ */ (0, import_jsx_runtime16.jsx)("div", { className: "diploma", children: "Diploma of Information and Communication Technology specialist in Software Engineering (CGPA: 3.32)" }),
+            /* @__PURE__ */ (0, import_jsx_runtime16.jsx)("div", { className: "school", children: "Asia Pacific University" }),
+            /* @__PURE__ */ (0, import_jsx_runtime16.jsx)("div", { className: "date", children: "2023 - 2025" })
+          ] }) }),
+          /* @__PURE__ */ (0, import_jsx_runtime16.jsx)("div", { className: "description", children: "Relevant coursework: Software Engineering, Database Systems, Web Development, Mobile App Development, Networking Technologies, Front-end Development, Back-end Development, DevOps, Cybersecurity, AI Fundamentals" })
         ] })
       ] }),
       /* @__PURE__ */ (0, import_jsx_runtime16.jsxs)("div", { className: "section", children: [
